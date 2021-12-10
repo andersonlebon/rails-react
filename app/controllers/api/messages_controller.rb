@@ -1,8 +1,9 @@
-class MessagesController < ApplicationController
+class Api::MessagesController < ApplicationController
   def index
     @messages = Message.all
     random_number = rand(0...@messages.length)
     @message = @messages[random_number]
+    render json: @messages[random_number]
   end
 
   def show
