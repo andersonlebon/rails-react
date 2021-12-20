@@ -38,11 +38,12 @@ Run `rails s` to run the server and open `localhost:3000` in browser
 Run `bundle exec rspec` to run tests
 ## Author
 
-👤 **Tolib**
+👤 **Anderson Caleb**
 
-- GitHub: [@toliboff](https://github.com/toliboff)
-- Twitter: [@tolib_tolibov](https://twitter.com/tolib_tolibov)
-- LinkedIn: [Tolibjon Tolibov](https://linkedin.com/in/tolibjon-tolibov)
+- GitHub: [@Andersonlebon](https://github.com/andersonlebon)
+- Twitter: [@BuyananaCaleb](https://twitter.com/BuyananaCaleb)
+- LinkedIn: [@Anderson Caleb](https://www.linkedin.com/in/anderson-caleb-915343209/)
+
 
 ## 🤝 Contributing
 
