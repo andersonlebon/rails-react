@@ -13,3 +13,38 @@
  *= require_tree .
  *= require_self
  */
+
+.profiler-results {
+  display: none;
+}
+
+h1 {
+  color: #86b835;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  color: #fff;
+  background-color: #86b835;
+  border: 10px solid #86b835;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  outline: none;
+  cursor: pointer;
+  align-self: center;
+}
+
+.btn:hover {
+  background-color: transparent;
+  color: black;
+}
+
+p {
+  font-size: 1.5rem;
+  color: rgb(83, 82, 82);
+}
